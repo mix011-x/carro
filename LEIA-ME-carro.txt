@@ -1,0 +1,17 @@
+CARRO DE CORRIDA 23 - MODELO 3D BASE
+
+Arquivos:
+- carro_corrida_23.obj: malha 3D importável
+- carro_corrida_23.mtl: materiais básicos
+
+Como abrir no Blender:
+1. Extraia os arquivos mantendo OBJ e MTL na mesma pasta.
+2. Blender > File > Import > Wavefront (.obj).
+3. Selecione carro_corrida_23.obj.
+4. Para exportar ao Unity/Unreal, aplique transformações e exporte como FBX.
+
+Observações:
+- Modelo estilizado de protótipo, montado com peças geométricas; não é uma réplica exata nem um modelo de produção.
+- Escala aproximada em unidades métricas; frente do carro aponta para -X.
+- Rodas e peças estão em grupos separados, mas a animação de direção/rodagem e colisores precisam ser configurados na engine.
+- O OBJ não inclui UVs detalhadas nem texturas pintadas.
